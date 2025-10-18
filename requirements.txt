@@ -1,0 +1,15 @@
+Django~=4.2.24
+pip~=25.2
+attrs~=25.3.0
+distro~=1.9.0
+cryptography~=45.0.5
+pillow~=11.3.0
+asgiref~=3.8.1
+sqlparse~=0.5.3
+mysqlclient~=2.2.7
+psycopg2-binary~=2.9.10
+colorama~=0.4.6
+PyYAML~=6.0.2
+geoip2~=5.0.1
+numpy~=2.2.6
+requests~=2.32.3
